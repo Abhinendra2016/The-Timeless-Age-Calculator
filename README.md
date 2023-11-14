@@ -23,7 +23,7 @@ The Timeless Age Calculator is a user-friendly application with a modern user in
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/timeless-age-calculator.git
+    git clone https://github.com/Abhinendra2016/The-Timeless-Age-Calculator.git
     ```
 
 2. Open the `index.html` file in your web browser.
